@@ -2,6 +2,8 @@
 
 Windows tool for monitoring window focus events with GUI, tray icon, and detailed process hierarchy.
 
+> **Note:** This is one of the few programs I built entirely with AI assistance. Use at your own risk.
+
 ![PC Watcher Screenshot](pc_watch.png)
 
 ## Features
